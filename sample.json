@@ -1,8 +1,8 @@
 {
    "seguros":{
-      "Hogar ":80.0,
-      "Coche":50.0,
-      "Salud":50.0
+      "Hogar ":90.0,
+      "Coche":20.0,
+      "Salud":20.0
    },
    "perfil":{
       "Particular":80.0,
@@ -10,7 +10,7 @@
       "Autónomo":20.0
    },
    "salud":{
-      "Psicología":90.0,
-      "Fisioterapia":70.0
+      "Psicología":50.0,
+      "Fisioterapia":30.0
    }
 }
