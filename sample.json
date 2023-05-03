@@ -1,16 +1,16 @@
 {
-   "tratamiento":{
-      "Radioterapia ":80.0,
-      "Quimioterapia":50.0,
-      "Cirugía Oncológica":50.0
+   "seguros":{
+      "Hogar ":80.0,
+      "Coche":50.0,
+      "Salud":50.0
    },
-   "programa":{
-      "Oncoplus":40.0,
-      "Oncoclásico Pro":30.0
+   "perfil":{
+      "Particular":80.0,
+      "Inversión":40.0,
+      "Autónomo":20.0
    },
-   "cancer":{
-      "Mama":90.0,
-      "Colon":70.0,
-      "Piel":50.0
+   "salud":{
+      "Psicología":90.0,
+      "Fisioterapia":70.0
    }
 }
