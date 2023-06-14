@@ -1,16 +1,16 @@
 {
-   "seguros":{
-      "Hogar ":90.0,
-      "Coche":20.0,
-      "Salud":20.0
+   "destinations":{
+      "Europe ":90.0,
+      "Asia":20.0,
+      "America":20.0
    },
-   "perfil":{
-      "Particular":80.0,
-      "Inversión":40.0,
-      "Autónomo":20.0
+   "travelers":{
+      "Three or more":80.0,
+      "Two":40.0,
+      "One":20.0
    },
-   "salud":{
-      "Psicología":50.0,
-      "Fisioterapia":30.0
+   "fare type":{
+      "Economy":50.0,
+      "Business":30.0
    }
 }
